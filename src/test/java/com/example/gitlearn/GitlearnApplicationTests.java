@@ -19,4 +19,10 @@ class GitlearnApplicationTests {
     public void test2() {
         System.out.println("lll");
     }
+
+    @Test
+    public void test3() {
+        System.out.println("lllll");
+    }
+
 }
