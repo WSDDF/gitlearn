@@ -10,4 +10,8 @@ class GitlearnApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    public void test1() {
+        System.out.println("===");
+    }
 }
