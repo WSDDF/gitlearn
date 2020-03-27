@@ -25,4 +25,9 @@ class GitlearnApplicationTests {
         System.out.println("lllll");
     }
 
+    @Test
+    public void test4() {
+        System.out.println("使用idea图形化操作");
+    }
+
 }
